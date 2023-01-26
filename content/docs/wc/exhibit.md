@@ -20,7 +20,7 @@ Due to the hybrid format of DH-IGNITE, we offer two options for exhibitors:
 
 {{% callout note %}}
 
-Full guidelines for exhibitors wanting to make use of physical exhibition spaces are will be shared shortly.
+Full guidelines for exhibitors wanting to make use of physical exhibition spaces are available [here](https://docs.google.com/document/d/1o42ZY41c0Za3mIiYFRnqgVDOhKrdgdrLvDbrK0Jhj10/edit#).
 
 {{% /callout %}}
 
